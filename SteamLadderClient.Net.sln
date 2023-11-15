@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamLadderClient", "SteamLadderClient\SteamLadderClient.csproj", "{F3D190E6-A24C-42E4-948D-908F8C7C5024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamLadderClient.Tests", "SteamLadderClient.Tests\SteamLadderClient.Tests.csproj", "{D9190927-D453-432B-A27B-9E428EF94B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D190E6-A24C-42E4-948D-908F8C7C5024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D190E6-A24C-42E4-948D-908F8C7C5024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D190E6-A24C-42E4-948D-908F8C7C5024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D190E6-A24C-42E4-948D-908F8C7C5024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9190927-D453-432B-A27B-9E428EF94B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9190927-D453-432B-A27B-9E428EF94B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9190927-D453-432B-A27B-9E428EF94B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9190927-D453-432B-A27B-9E428EF94B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

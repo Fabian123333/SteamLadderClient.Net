@@ -1,0 +1,57 @@
+# Binäre und Objekt-Verzeichnisse
+bin/
+obj/
+
+# Benutzer-spezifische Dateien
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio- und Rider-Dateien
+.vs/
+.idea/
+
+# Build-Ausgabe
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet-Artefakte
+packages/
+*.nupkg
+*.snupkg
+# Ignorieren Sie die NuGet-Paketdateien, die mit dem Code erstellt wurden
+# Kommentieren Sie die nächste Zeile aus, wenn Sie Paketdateien ins Repository aufnehmen möchten.
+!/.nuget/packages/
+
+# Paket-Verzeichnisse
+*.snupkg
+
+# Runtimes, SDKs und andere .NET-Dateien
+global.json
+project.lock.json
+# Dotnet-CLI-Tool-Dateien
+/.dotnet/
+/.nuget/
+
+# Resharper- / Rider-Dateien
+*.DotSettings
+
+# Mac-Dateisystem
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Weitere Dateien und Ordner
+*.swp
+*~
+log/
+tmp/
+temp/
